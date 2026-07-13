@@ -1,2 +1,0 @@
-# bot
-Telegram bot 
