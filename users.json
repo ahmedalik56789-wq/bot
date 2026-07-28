@@ -1,0 +1,19 @@
+{
+  "RLH55": {
+    "password": "446ac97080a207d44c2d1d028789438642b13a324cc312a0d202285285959671",
+    "created_at": "2025-12-31T21:32:28.567111",
+    "last_login": "2026-03-16T21:16:48.927306",
+    "theme": "premium",
+    "is_admin": true,
+    "can_create_users": true
+  },
+  "RLH555": {
+    "password": "446ac97080a207d44c2d1d028789438642b13a324cc312a0d202285285959671",
+    "created_at": "2026-03-16T21:17:20.227374",
+    "last_login": "2026-03-16T21:17:46.270896",
+    "theme": "blue",
+    "is_admin": false,
+    "created_by_admin": true,
+    "created_by": "RLH55"
+  }
+}
